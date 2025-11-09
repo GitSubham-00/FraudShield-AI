@@ -81,7 +81,7 @@ The model is integrated into a **Streamlit web app** for interactive real-time p
 
 #### Clone the repository
 ```bash
-git clone https://github.com/subham-maity/fraud-detection-streamlit.git
+git clone https://github.com/GitSubham-00/fraudshield-ai.git
 cd fraud-detection-streamlit
 ```
 
