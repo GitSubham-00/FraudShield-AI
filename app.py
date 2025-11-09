@@ -46,4 +46,5 @@ if st.button("🔍 Predict Fraud"):
         st.success("✅ **This transaction seems legitimate.**")
 
 st.markdown("---")
-st.markdown("Developed by **Subham Maity** | Data Analyst | [GitHub](https://github.com/yourusername)")
+st.markdown("Developed by **Subham Maity** | Data Analyst | [GitHub](https://github.com/GitSubham-00)")
+
