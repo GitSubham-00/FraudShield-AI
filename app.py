@@ -5,8 +5,8 @@ import joblib
 # Load model
 model = joblib.load('fraud_model.pkl')
 
-st.set_page_config(page_title="Online Payment Fraud Detection", page_icon="💳", layout="centered")
-st.title("💳 Online Payment Fraud Detection")
+st.set_page_config(page_title="FraudShield AI: Intelligent Detection of Financial Transaction Anomalies", page_icon="💳", layout="centered")
+st.title("💳 FraudShield AI: Intelligent Detection of Financial Transaction Anomalies")
 st.markdown("This app predicts whether a transaction is **fraudulent or legitimate** based on key transaction details.")
 
 # --- Input Section ---
@@ -47,4 +47,5 @@ if st.button("🔍 Predict Fraud"):
 
 st.markdown("---")
 st.markdown("Developed by **Subham Maity** | Data Analyst | [GitHub](https://github.com/GitSubham-00)")
+
 
